@@ -1,0 +1,35 @@
+c:\users\agass\documents\visual studio 2013\Projects\ConvertidorPDFToWord\ConvertidorPDFToWord\bin\Debug\ConvertidorPDFToWord.exe.config
+c:\users\agass\documents\visual studio 2013\Projects\ConvertidorPDFToWord\ConvertidorPDFToWord\bin\Debug\ConvertidorPDFToWord.exe
+c:\users\agass\documents\visual studio 2013\Projects\ConvertidorPDFToWord\ConvertidorPDFToWord\bin\Debug\ConvertidorPDFToWord.pdb
+c:\users\agass\documents\visual studio 2013\Projects\ConvertidorPDFToWord\ConvertidorPDFToWord\bin\Debug\SautinSoft.PdfFocus.dll
+c:\users\agass\documents\visual studio 2013\Projects\ConvertidorPDFToWord\ConvertidorPDFToWord\bin\Debug\SautinSoft.PdfFocus.xml
+c:\users\agass\documents\visual studio 2013\Projects\ConvertidorPDFToWord\ConvertidorPDFToWord\obj\Debug\ConvertidorPDFToWord.csprojResolveAssemblyReference.cache
+c:\users\agass\documents\visual studio 2013\Projects\ConvertidorPDFToWord\ConvertidorPDFToWord\obj\Debug\ConvertidorPDFToWord.Form1.resources
+c:\users\agass\documents\visual studio 2013\Projects\ConvertidorPDFToWord\ConvertidorPDFToWord\obj\Debug\ConvertidorPDFToWord.Properties.Resources.resources
+c:\users\agass\documents\visual studio 2013\Projects\ConvertidorPDFToWord\ConvertidorPDFToWord\obj\Debug\ConvertidorPDFToWord.csproj.GenerateResource.Cache
+c:\users\agass\documents\visual studio 2013\Projects\ConvertidorPDFToWord\ConvertidorPDFToWord\obj\Debug\ConvertidorPDFToWord.exe
+c:\users\agass\documents\visual studio 2013\Projects\ConvertidorPDFToWord\ConvertidorPDFToWord\obj\Debug\ConvertidorPDFToWord.pdb
+F:\Visual Studio 2013\Projects\ConvertidorPDFToWord\ConvertidorPDFToWord\bin\Debug\ConvertidorPDFToWord.exe.config
+F:\Visual Studio 2013\Projects\ConvertidorPDFToWord\ConvertidorPDFToWord\obj\Debug\ConvertidorPDFToWord.exe
+F:\Visual Studio 2013\Projects\ConvertidorPDFToWord\ConvertidorPDFToWord\obj\Debug\ConvertidorPDFToWord.pdb
+F:\Visual Studio 2013\Projects\ConvertidorPDFToWord\ConvertidorPDFToWord\bin\Debug\ConvertidorPDFToWord.exe
+F:\Visual Studio 2013\Projects\ConvertidorPDFToWord\ConvertidorPDFToWord\bin\Debug\ConvertidorPDFToWord.pdb
+F:\Visual Studio 2013\Projects\ConvertidorPDFToWord\ConvertidorPDFToWord\bin\Debug\SautinSoft.PdfFocus.dll
+F:\Visual Studio 2013\Projects\ConvertidorPDFToWord\ConvertidorPDFToWord\bin\Debug\SautinSoft.PdfFocus.xml
+F:\Visual Studio 2013\Projects\ConvertidorPDFToWord\ConvertidorPDFToWord\obj\Debug\ConvertidorPDFToWord.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2013\Projects\ConvertidorPDFToWord\ConvertidorPDFToWord\obj\Debug\ConvertidorPDFToWord.Form1.resources
+F:\Visual Studio 2013\Projects\ConvertidorPDFToWord\ConvertidorPDFToWord\obj\Debug\ConvertidorPDFToWord.Properties.Resources.resources
+F:\Visual Studio 2013\Projects\ConvertidorPDFToWord\ConvertidorPDFToWord\obj\Debug\ConvertidorPDFToWord.csproj.GenerateResource.Cache
+C:\Users\agass\Desktop\2019\ConvertidorPDFToWord\ConvertidorPDFToWord\bin\Debug\ConvertidorPDFToWord.exe.config
+C:\Users\agass\Desktop\2019\ConvertidorPDFToWord\ConvertidorPDFToWord\bin\Debug\ConvertidorPDFToWord.exe
+C:\Users\agass\Desktop\2019\ConvertidorPDFToWord\ConvertidorPDFToWord\bin\Debug\ConvertidorPDFToWord.pdb
+C:\Users\agass\Desktop\2019\ConvertidorPDFToWord\ConvertidorPDFToWord\bin\Debug\SautinSoft.PdfFocus.dll
+C:\Users\agass\Desktop\2019\ConvertidorPDFToWord\ConvertidorPDFToWord\bin\Debug\SautinSoft.PdfFocus.xml
+C:\Users\agass\Desktop\2019\ConvertidorPDFToWord\ConvertidorPDFToWord\obj\Debug\ConvertidorPDFToWord.csprojAssemblyReference.cache
+C:\Users\agass\Desktop\2019\ConvertidorPDFToWord\ConvertidorPDFToWord\obj\Debug\ConvertidorPDFToWord.Form1.resources
+C:\Users\agass\Desktop\2019\ConvertidorPDFToWord\ConvertidorPDFToWord\obj\Debug\ConvertidorPDFToWord.Properties.Resources.resources
+C:\Users\agass\Desktop\2019\ConvertidorPDFToWord\ConvertidorPDFToWord\obj\Debug\ConvertidorPDFToWord.csproj.GenerateResource.cache
+C:\Users\agass\Desktop\2019\ConvertidorPDFToWord\ConvertidorPDFToWord\obj\Debug\ConvertidorPDFToWord.csproj.CoreCompileInputs.cache
+C:\Users\agass\Desktop\2019\ConvertidorPDFToWord\ConvertidorPDFToWord\obj\Debug\ConvertidorPDFToWord.csproj.CopyComplete
+C:\Users\agass\Desktop\2019\ConvertidorPDFToWord\ConvertidorPDFToWord\obj\Debug\ConvertidorPDFToWord.exe
+C:\Users\agass\Desktop\2019\ConvertidorPDFToWord\ConvertidorPDFToWord\obj\Debug\ConvertidorPDFToWord.pdb
